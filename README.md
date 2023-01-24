@@ -10,3 +10,12 @@ S pomočjo STM32CubeIDE inHAL knjižnicamisprogramirajte mikroprocesor tako, da 
 - **PA5**
 - **Output Buffer:** Enable , **Trigger:** None. 
 - odstopanje je za **8mV**
+
+# Piniout
+![Pinout](media/image.png)
+
+# Slika delovanja
+![Slika multimetra](meida/../media/6C20AFE8-94B1-4E16-9BC3-93C938C72283L0001.png.png.jpg)
+
+# Komentar
+Koda na začetku ni delovala. Problem je bil odpravljen z zamenjavo razvojne plošče, saj je na začetku bila napačno izbrana.
