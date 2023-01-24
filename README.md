@@ -7,5 +7,6 @@ S pomočjo STM32CubeIDE inHAL knjižnicamisprogramirajte mikroprocesor tako, da 
 ## Postopekinicializacije periferije
 - 2
 - od 0V do 3.3V
-- PA4
+- **PA5**
 - **Output Buffer:** Enable , **Trigger:** None. 
+- odstopanje je za **8mV**
