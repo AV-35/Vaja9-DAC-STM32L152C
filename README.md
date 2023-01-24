@@ -9,7 +9,7 @@ S pomočjo STM32CubeIDE inHAL knjižnicamisprogramirajte mikroprocesor tako, da 
 - od 0V do 3.3V
 - **PA5**
 - **Output Buffer:** Enable , **Trigger:** None. 
-- odstopanje je za **8mV**
+- odstopanje je **70mV**
 
 # Piniout
 ![Pinout](media/image.png)
